@@ -1,0 +1,6 @@
+Reservoir Name,Reservoir Type,Well Type,Production Type,Formation GOR Trend,Watercut Trend,Oil Productivity Index Trend
+ACHI,Saturated,NF,Steady,aSolGOR,Flat,Flat
+KEMA,Undersat,GL,Unsteady,bSolGOR,Incr,Incr
+MAKO,,,,Combo,Decr,Decr
+DEPU,,,,,Combo,Combo
+JANI,,,,,,
